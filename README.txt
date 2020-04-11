@@ -1,8 +1,4 @@
 
-
-* Surname: Wang
-* Firstname: Yining 
-* BU ID: U32745478
 * HOW TO COMPILE: 
 
 Javac Mark.java
